@@ -29,9 +29,9 @@ namespace member_space
         private void signUp_Load(object sender, EventArgs e)
         {
             // Populate the combo box with security questions
-            combobxSecurityQues.Items.Add("Name of the city you were born in?");
-            combobxSecurityQues.Items.Add("Name of the first school you went to?");
-            combobxSecurityQues.Items.Add("Name of your first pet?");
+            //combobxSecurityQues.Items.Add("Name of the city you were born in?");
+            //combobxSecurityQues.Items.Add("Name of the first school you went to?");
+           // combobxSecurityQues.Items.Add("Name of your first pet?");
         }
 
         // Register Button Click event handler
